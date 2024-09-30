@@ -34,4 +34,17 @@ public class GameRules
     public const int RUNE_BAR_BORDER_LEFT = SCREEN_BORDER_LEFT + 6;
     public const int RUNE_BAR_BORDER_RIGHT = SCREEN_BORDER_RIGHT - 6;
     public const int RUNE_BAR_BORDER_BOTTOM = SCREEN_BORDER_BOTTOM;
+
+
+
+
+    // Player Stats
+    public const int PLAYER_HEALTH_MAX = 1000;
+    public const int PLAYER_HEALTH_MIN = 1;
+    public const int PLAYER_HEALTH_START = 10; // TODO : Make classes where this is different
+    public const int PLAYER_ESTUS_START = 3;
+    public const int PLAYER_ESTUS_MAX = 10;
+    public const int PLAYER_ESTUS_MIN = 0;
+    public const int PLAYER_LEVEL_START = 1;
+    public const int PLAYER_LEVEL_MIN = 1;
 }
