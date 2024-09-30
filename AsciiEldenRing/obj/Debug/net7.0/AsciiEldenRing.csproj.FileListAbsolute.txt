@@ -1,0 +1,15 @@
+/Volumes/eidasDRIVE/Dropbox/Programming/2024/2_AsciiEldenRing/AsciiEldenRing/bin/Debug/net7.0/AsciiEldenRing
+/Volumes/eidasDRIVE/Dropbox/Programming/2024/2_AsciiEldenRing/AsciiEldenRing/bin/Debug/net7.0/AsciiEldenRing.deps.json
+/Volumes/eidasDRIVE/Dropbox/Programming/2024/2_AsciiEldenRing/AsciiEldenRing/bin/Debug/net7.0/AsciiEldenRing.runtimeconfig.json
+/Volumes/eidasDRIVE/Dropbox/Programming/2024/2_AsciiEldenRing/AsciiEldenRing/bin/Debug/net7.0/AsciiEldenRing.dll
+/Volumes/eidasDRIVE/Dropbox/Programming/2024/2_AsciiEldenRing/AsciiEldenRing/bin/Debug/net7.0/AsciiEldenRing.pdb
+/Volumes/eidasDRIVE/Dropbox/Programming/2024/2_AsciiEldenRing/AsciiEldenRing/obj/Debug/net7.0/AsciiEldenRing.csproj.AssemblyReference.cache
+/Volumes/eidasDRIVE/Dropbox/Programming/2024/2_AsciiEldenRing/AsciiEldenRing/obj/Debug/net7.0/AsciiEldenRing.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/eidasDRIVE/Dropbox/Programming/2024/2_AsciiEldenRing/AsciiEldenRing/obj/Debug/net7.0/AsciiEldenRing.AssemblyInfoInputs.cache
+/Volumes/eidasDRIVE/Dropbox/Programming/2024/2_AsciiEldenRing/AsciiEldenRing/obj/Debug/net7.0/AsciiEldenRing.AssemblyInfo.cs
+/Volumes/eidasDRIVE/Dropbox/Programming/2024/2_AsciiEldenRing/AsciiEldenRing/obj/Debug/net7.0/AsciiEldenRing.csproj.CoreCompileInputs.cache
+/Volumes/eidasDRIVE/Dropbox/Programming/2024/2_AsciiEldenRing/AsciiEldenRing/obj/Debug/net7.0/AsciiEldenRing.dll
+/Volumes/eidasDRIVE/Dropbox/Programming/2024/2_AsciiEldenRing/AsciiEldenRing/obj/Debug/net7.0/refint/AsciiEldenRing.dll
+/Volumes/eidasDRIVE/Dropbox/Programming/2024/2_AsciiEldenRing/AsciiEldenRing/obj/Debug/net7.0/AsciiEldenRing.pdb
+/Volumes/eidasDRIVE/Dropbox/Programming/2024/2_AsciiEldenRing/AsciiEldenRing/obj/Debug/net7.0/AsciiEldenRing.genruntimeconfig.cache
+/Volumes/eidasDRIVE/Dropbox/Programming/2024/2_AsciiEldenRing/AsciiEldenRing/obj/Debug/net7.0/ref/AsciiEldenRing.dll
