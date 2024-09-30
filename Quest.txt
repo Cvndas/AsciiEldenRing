@@ -1,0 +1,76 @@
+Quest: Remake the ELDEN RING ASCII game, and expand on it greatly. 
+
+# +++ ___ +++ ___ ASCII Elden Ring ___ +++ ___ +++ #
+
+A remake of an ASCII game I made 2 years ago. 
+
+    HOME SCREEN:
+When booting the game, you are presented with two 3 options:
+1. Continue
+2. Load
+3. New Game
+
+4. Section: "A Game By Eidas.\n" Game is tested on Linux and MacOS using the Alacritty terminal emulator.\n
+             Other terminals may have worse performance.\n"
+
+    NEW GAME:
+What is your name?
+Choose your class: b (bandit), a (archer), 
+
+    GAMEPLAY MODES:
+Overworld & Combat
+
+    OVERWORLD:
+
+A top-down view of a game world, where each grid area takes up one character. Enemies
+are marked and have colors. There are items to collect, chests to open, shops to buy 
+new gear, new weapons, new armor.
+
+The world consists of Limgrave, Liunia, Altus. Explored in linear fashion. Each area has an overworld, and then a legacy
+dungeon where you need to find keys and solve minor puzzles to get to the boss. 
+
+    INVENTORY SYSTEM:
+
+When in the overworld AND when in combat, pressing i brings up the inventory menu. 
+
+    LOADING, SAVING
+When pressing P, you open up the Pause menu, from where you can save your progress and
+exit the game. The game also auto-saves when resting at a bonfire, when dying, and when collecitng a new weapon. When lo
+
+IT's saved in either a JSON file, or INI file, depending on what works best with C++. 
+
+    UI
+On top of the screen, you have one line that has the controls, which doesn't update until you switch
+Gameplay mode (Overworld | Combat | Inventory | Shop | etc.)
+Below that is a line
+-------------------
+Then there is the Status bar. This bar can be filled with information that is relevant to recently taken actions, and remains
+there for either 5 seconds, in a specified color, or is replaced if another action takes it over. 
+
+    STATUS BAR EXAMPLES
+1. PUSH BLOCK (space) | BLUE |
+2. YOU TRIED TO SWIM IN LAVA | RED | (character will flash red a couple of times) 
+3. RUNES RETRIEVED | GOLD | 
+4. GAME SAVED | WHITE | 
+5. 
+
+
+The entire screen is surrounded by a border, to indicate how large the terminal screen needs to be for the game to function. 
+
+    TECHNICAL DETAILS
+1. Control scheme always visible on the top of the screen, mode dependent
+2. Screen borders are drawn, so you know if the terminal size is great enough.
+
+    COMBAT:
+You can equip both a melee weapon as well as a ranged weapon. 
+
+    LEVELING:
+You can level up your:
+1. Health
+2. Melee Damage
+3. Ranged Damage
+Leveling requires more 
+
+    RETRIEVING SOULS:
+Your soul will be marked on the map on the spot where you last died. 
+When you reach your soul, the Status Bar states: RUNES RETRIEVED
